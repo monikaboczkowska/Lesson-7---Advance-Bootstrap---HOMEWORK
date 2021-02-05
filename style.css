@@ -201,7 +201,7 @@ nav .navbar-nav li a:hover {
 
 /*   #########################  Samsung Galaxy S5 @ MEDIA ##################  ----------- */
 
-@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3) {
+@media only screen and (max-width : 320px) {
     .masthead {
         height: 100vh;
         min-height: 500px;
