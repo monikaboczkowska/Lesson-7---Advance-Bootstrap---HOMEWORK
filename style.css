@@ -201,7 +201,7 @@ nav .navbar-nav li a:hover {
 
 /*   #########################  @ MEDIA ##################  ----------- */
 
-@media (max-width: 480px) {
+@media only screen and (min-width: 300px) {
     .masthead {
         height: 100vh;
         min-height: 500px;
