@@ -201,7 +201,7 @@ nav .navbar-nav li a:hover {
 
 /*   #########################  Samsung Galaxy S5 @ MEDIA ##################  ----------- */
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width: 600px) {
     .masthead {
         height: 100vh;
         min-height: 500px;
