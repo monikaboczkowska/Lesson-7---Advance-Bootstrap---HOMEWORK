@@ -201,7 +201,8 @@ nav .navbar-nav li a:hover {
 
 /*   #########################  @ MEDIA ##################  ----------- */
 
-@media only screen and (min-width: 300px) {
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 360px) {
     .masthead {
         height: 100vh;
         min-height: 500px;
